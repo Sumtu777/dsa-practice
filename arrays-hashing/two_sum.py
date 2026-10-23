@@ -1,6 +1,6 @@
    # Two Sum: https://leetcode.com/problems/two-sum/
    # Pattern: arrays and hashing
-   # Time: O(n) avarage   Space: O(n) avarage
+   # Time: O(n) average   Space: O(n)
 
 class Solution:
     def twoSum(self, nums: list[int], target: int):
