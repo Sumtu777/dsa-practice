@@ -35,3 +35,4 @@ Energy is how I felt during the session: 1 = drained, 5 = sharp. Re-solves get t
 | 2026-10-23 | Two Sum | Arrays and hashing | 10 | Yes | 5 | re-solve |
 | 2026-10-23 | Valid Anagram | Arrays and hashing | 9 | Yes | 5 | re-solve; added Counter version |
 | 2026-10-23 | Group Anagrams | Arrays and hashing | 12 | Yes | 4 | re-solve |
+| 2026-10-23 | Top K Frequent Elements | Arrays and hashing | 23 | Yes | 4 | re-solve; hint on return type |
