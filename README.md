@@ -32,3 +32,4 @@ Energy is how I felt during the session: 1 = drained, 5 = sharp. Re-solves get t
 
 | Date | Problem | Pattern | Minutes | Solved alone? | Energy (1–5) | Notes |
 |------|---------|---------|---------|---------------|--------------|-------|
+| 2026-10-23 | Two Sum | Arrays and hashing | 13 | Yes | 5 | re-solve |
