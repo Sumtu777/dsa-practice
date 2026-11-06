@@ -25,6 +25,7 @@ One folder per pattern, one file per problem, e.g. `arrays-hashing/two_sum.py`.
 - [ ] Graphs
 - [ ] Greedy and intervals
 - [ ] Dynamic programming
+- [ ] Design (classes)
 
 ## Log
 
@@ -37,3 +38,4 @@ Energy is how I felt during the session: 1 = drained, 5 = sharp. Re-solves get t
 | 2026-10-23 | Group Anagrams | Arrays and hashing | 12 | Yes | 4 | re-solve |
 | 2026-10-23 | Top K Frequent Elements | Arrays and hashing | 23 | Yes | 4 | re-solve; hint on return type |
 | 2026-10-23 | Contains Duplicate | Arrays and hashing | 13 | With hint | 3 | new; list → set after TLE hint |
+| 2026-11-06 | Design Parking System | Design | 25 | Yes | 5 | new; refactored to spaces[carType - 1] after review |
